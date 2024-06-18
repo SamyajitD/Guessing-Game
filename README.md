@@ -1,6 +1,5 @@
-# oibsip_1
+# Guessing Game
 
-Task 1 - Guessing Game using Java
 
 I have used java swing and basic programming to make a guessing game where A user is first explained the rules and then is asked if he wants to play or not . This happens in the main function
 
